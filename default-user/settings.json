@@ -670,13 +670,59 @@
             "id": "1345561466591",
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)"
+        },
+        {
+            "id": "894f6bcc-cfdd-4068-8091-757713f6b5bf",
+            "name": "Horror",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740468945012
+        },
+        {
+            "id": "7e554226-ae3a-43ef-80ae-c553547580f9",
+            "name": "OC",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740468945012
+        },
+        {
+            "id": "f78b3f7d-6572-460b-9b9c-f128a29cfac3",
+            "name": "Female",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740468945012
+        },
+        {
+            "id": "c3eb733e-23d6-454f-a401-4cd957e73870",
+            "name": "Monsters",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740468945012
         }
     ],
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
         ],
-        "undefined": []
+        "undefined": [],
+        "Maxine.png": [
+            "894f6bcc-cfdd-4068-8091-757713f6b5bf",
+            "7e554226-ae3a-43ef-80ae-c553547580f9",
+            "f78b3f7d-6572-460b-9b9c-f128a29cfac3",
+            "c3eb733e-23d6-454f-a401-4cd957e73870"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
